@@ -1,0 +1,28 @@
+body
+{
+    background-color: rgb(213, 230, 230);
+}
+
+ul
+{
+    overflow: hidden;
+}
+
+li 
+{
+    display: inline;
+    float: left;
+}
+  
+li a 
+{
+    display: inline-block;
+    padding: 15px 20px;
+    text-align: center;
+    background-color: #b9e8d6;
+}
+
+li a:hover
+{
+    background-color: #9fcbc3;
+}

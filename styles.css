@@ -39,3 +39,8 @@ li a:hover
     width: 60%;
     height: 60%;
 }
+
+#pics
+{
+    display:inline-block;
+}
